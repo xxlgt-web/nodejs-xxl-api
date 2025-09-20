@@ -1,0 +1,12 @@
+# Ignore Node.js files
+/node_modules
+
+# Ignore environment files
+/.env
+
+# Ignore editor files
+/.idea
+/.vscode
+
+# Ignore Docekr Data
+/data
